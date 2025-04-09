@@ -1,7 +1,8 @@
 # Géostandard d’éclairage extérieur EclExt
 
 ## Description
-La [documentation du standard](https://cnig.gouv.fr/IMG/pdf/cnig_eclext_v1_1.pdf) est disponible ici.
+> [!TIP]
+> Le standard CNIG EclExt n'a pas de schéma directement exploitable par schema.data.gouv.fr. Vous pouvez consulter la [documentation du standard](https://cnig.gouv.fr/IMG/pdf/cnig_eclext_v1_1.pdf) est disponible ici.
 
 EclExt est un standard de base de données géographique applicable aux points lumineux d’éclairage extérieur visant à améliorer la connaissance du parc d’éclairage existant tout en anticipant les évolutions des années à venir.
 
